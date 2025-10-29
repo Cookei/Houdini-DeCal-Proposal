@@ -1,0 +1,53 @@
+---
+{"publish":true,"created":"2025-10-28T03:33:17.951-07:00","modified":"2025-10-28T22:09:39.043-07:00","published":"2025-10-28T22:09:39.043-07:00","tags":["index"],"cssclasses":""}
+---
+
+Various resources that can be used to create the curriculum and to learn
+## Curriculum Sourcing
+- [[Learning Notes/Houdini Kitchen/Houdini Kitchen]]
+	- Beginner video tutorials on simple nodes/concepts
+	- Pretty comprehensive. Good curriculum base
+	- L-Systems based on [The Algorithmic Beauty of Plants](https://algorithmicbotany.org/papers/abop/abop.pdf)
+	- Modeling, Simple Shading
+- [[Learning Notes/Houdini is HIP/Houdini is HIP]]
+	- Beginner playlist on Houdini
+	- Highly recommended by SideFX
+	- Modeling, Simulations
+- [Curriculum In A Box](https://www.sidefx.com/education/education-programs/resources/curriculum/)
+	- Beginner video lessons
+	- Official from SideFX
+	- Barebones
+	- Modeling, Simple Simulations
+- [Stanford CS 348C](https://graphics.stanford.edu/courses/cs348c/)
+	- Stanford Houdini class
+	- First half Houdini, latter half CS
+	- Assignments
+		- [Position Based Fluids in Houdini](https://graphics.stanford.edu/courses/cs348c-20-winter/HW_PBF_Houdini/index.html)
+			- Implements a research paper for fluid sims in Houdini
+		- [Particle On A Rigid Surface](https://www.dropbox.com/scl/fi/pt1zkz0134i1uwzqgn5p3/particleOnARigidSurface.hipnc?rlkey=tfci4hr81l7ori64onnxc4rta&e=2&dl=0)
+			- Demo hipnc file
+		- [Dynamics](https://docs.google.com/document/d/1oZLnJR5W6qRhYqn8PuQLnS4J5jNNRwbYf-E24GNQGuc/edit?tab=t.0)
+			- Exploring solvers, sims
+		- [Hello Houdini](https://docs.google.com/document/d/133SNoB1043ZreQL1v2VmWvbBVFvuMfRwopsnsO1enKo/edit?tab=t.0)
+			- [Lecture Slides](https://www.dropbox.com/scl/fi/2pj6ix968mi8ab2tzk41z/02_HelloHoudini_2025.pdf?rlkey=9ok3dlpbnz7e94hot4zj2qme3&e=2&dl=0)
+- [H19.5 Foundations Book](https://www.sidefx.com/tutorials/foundations-book/)
+	- From SideFX
+	- Official Houdini Foundations PDF
+- [Houdini Learning Paths](https://www.sidefx.com/learn-main-menu/start-here/)
+	- Official SideFX learning paths
+## Tutorials
+- [Entagma](https://www.youtube.com/@Entagma)
+	- Advanced tutorials
+- [Node Flow](https://www.youtube.com/@nodeflowhoudini)
+	- Great tutorials on [[Front Facing/Topics/Solaris]]
+- [Voxyde VFX](https://www.youtube.com/@voxyde)
+	- FX tutorials
+- - [CGWiki](https://tokeru.com/cgwiki/HoudiniGettingStarted.html)
+	- Quick reference for various tips and quick examples, conversational tutorials
+	- [Joy of Vex](https://tokeru.com/cgwiki/JoyOfVex.html)
+	- Highly recommended from various sources
+- [Rebelway](https://www.youtube.com/@Rebelway)
+	- Free masterclasses
+	- Mostly FX and Modeling
+- [Rohan Dalvi](https://www.youtube.com/@rohandalvi)
+	- [[Front Facing/Topics/COP\|COPs]]
