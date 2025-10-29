@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "Cookei.github.io/houdini-decal-proposal",
+    baseUrl: "cookei.github.io/houdini-decal-proposal/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
