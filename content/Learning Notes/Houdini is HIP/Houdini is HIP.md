@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-28T22:09:41.004-07:00","modified":"2025-10-29T03:08:04.007-07:00","published":"2025-10-29T03:08:04.007-07:00","tags":["index"],"cssclasses":""}
+{"publish":true,"created":"2025-10-28T22:09:41.004-07:00","modified":"2025-10-29T03:23:25.595-07:00","published":"2025-10-29T03:23:25.595-07:00","tags":["index"],"cssclasses":""}
 ---
 
 [Houdini is HIP](https://www.youtube.com/watch?v=J96j3k3rPUU&list=PLhyeWJ40aDkXtkcuhTkCBzcWZ8NBZKOu6)
